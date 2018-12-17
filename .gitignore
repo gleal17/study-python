@@ -1,4 +1,5 @@
 *.pdf
-*/
+prank/
+node_modules/
 prank.py
 *.pyc
